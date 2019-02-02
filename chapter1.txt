@@ -3,3 +3,4 @@ Nowa linia z wersji 1.1
 zadanie1 
 hotfix changes 
 zmiana z mastera 
+zmiana w GitHub
