@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 ﻿Rodział 3 
 dfgsdg
 zmiana coś tam
+=======
+﻿Rodział 3 - zmiany z v1.3
+jaskldask
+>>>>>>> v1.3
